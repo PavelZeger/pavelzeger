@@ -3,7 +3,7 @@
   Hi there 👋 I'm Pavel 👨‍💻
 </h1>
 
-Senior Software Engineer with more than ... years of developing experience.
+Software Engineer with more than 3 years of developing experience.
 In general worked with monolitic, microservice and serverless architectures.
 
 <p align = 'center'>
@@ -23,10 +23,13 @@ In general worked with monolitic, microservice and serverless architectures.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Technical Stack
-*   Java/Scala/Python languages
-*   MySQL, PostgreSQL, MongoDB, Aurora .... 
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract etc...
-*   GitHub/GitLab/Bitbucket
+*   Java, Scala, Python
+*   Cassandra, ClickHouse, ELK, MongoDB, MySQL, PostgreSQL, AWS Aurora, AWS Athena, AWS RDS
+*   Cloudera/HDP/Apache Hadoop, Hive, Impala, HBase, Apache Spark, AWS EMR, AWS S3, AWS EC2
+*   Spring Framework, Spring Boot, Spring Boot Test, Spring Data, Spring MVC, Spring WebFlux, Spring AOP
+*   JUnit, Mockito, Maven, JMeter, VisualVM, JDK Mission Control, Lombok
+*   GitHub, GitLab, Bitbucket, Jira, Confluence, JFrog Artifactory
+*   Jenkins, Ansible, Docker, Kubernetes, Airflow, AWS ECR, MLFlow, DataDog, Grafana
 
 ### My opensource projects
 
