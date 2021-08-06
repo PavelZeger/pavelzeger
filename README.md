@@ -22,13 +22,14 @@ In general worked with monolitic, microservice and serverless architectures.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Technical Stack
-*   Java, Scala, Python
-*   Cassandra, ClickHouse, ELK, MongoDB, MySQL, PostgreSQL, AWS Aurora, AWS Athena, AWS RDS
-*   Cloudera/HDP/Apache Hadoop, Hive, Impala, HBase, Apache Spark, AWS EMR, AWS S3, AWS EC2
-*   Spring Framework, Spring Boot, Spring Boot Test, Spring Data, Spring MVC, Spring WebFlux, Spring AOP
-*   JUnit, Mockito, Maven, JMeter, VisualVM, JDK Mission Control, Lombok
-*   GitHub, GitLab, Bitbucket, Jira, Confluence, JFrog Artifactory
-*   Jenkins, Ansible, Docker, Kubernetes, Airflow, AWS ECR, MLFlow, DataDog, Grafana
+* Java, Scala, Python, Groovy
+* Cassandra, ClickHouse, ELK, MongoDB, MySQL, PostgreSQL, AWS Aurora, AWS Athena, AWS RDS, Couchbase
+* Kafka, RabbitMQ, AWS Kinesis, AWS SQS
+* Cloudera/HDP/Apache Hadoop, Hive, Impala, HBase, Apache Spark, AWS EMR, AWS S3, AWS EC2
+* Spring Framework, Spring Boot, Spring Boot Test, Spring Data, Spring MVC, Spring WebFlux, Spring AOP, Spring Integration
+* JUnit, Mockito, Maven, JMeter, VisualVM, JDK Mission Control, Lombok
+* GitHub, GitLab, Bitbucket, Jira, Confluence, JFrog Artifactory
+* Codefresh, Jenkins, Ansible, Docker, Kubernetes, Airflow, AWS ECR, MLFlow, DataDog, Grafana
 
 ### My opensource projects
 
