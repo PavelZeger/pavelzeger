@@ -14,6 +14,9 @@ In general worked with monolitic, microservice and serverless architectures.
   <a href="https://www.linkedin.com/in/pavelzeger/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/goodordinaryguy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>&nbsp;&nbsp;
  <p align='center'>
   📫  How to reach me: <a href='mailto:pavelzeger@outlook.com'>pavelzeger@outlook.com</a>
 </p>
@@ -29,7 +32,7 @@ In general worked with monolitic, microservice and serverless architectures.
 * Spring Framework, Spring Boot, Spring Boot Test, Spring Data, Spring MVC, Spring WebFlux, Spring AOP, Spring Integration
 * JUnit, Mockito, Maven, JMeter, VisualVM, JDK Mission Control, Lombok
 * GitHub, GitLab, Bitbucket, Jira, Confluence, JFrog Artifactory
-* Codefresh, Jenkins, Ansible, Docker, Kubernetes, Airflow, AWS ECR, MLFlow, DataDog, Grafana
+* Codefresh, Jenkins, Ansible, Docker, Kubernetes, Airflow, AWS ECR, MLFlow, DataDog, Grafana, Prometheus
 
 ### My opensource projects
 
