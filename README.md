@@ -2,27 +2,26 @@
   Hi there 👋 I'm Pavel 👨‍💻
 </h1>
 
-Software Engineer with more than 3 years of developing experience.
-In general worked with monolitic, microservice and serverless architectures.
+Software Engineer with more than 3 years of developing experience, working with monolithic, microservice and serverless architectures.
 
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=pavelzeger&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/pavelzeger/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelzeger&layout=compact" /></a>
+ <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=pavelzeger&show_icons=true&count_private=true"  alt=""/></a>
+<a href="https://github.com/pavelzeger/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelzeger&layout=compact"  alt=""/></a>
  </p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/pavelzeger/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/>
   </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/goodordinaryguy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt=""/>
     </a>&nbsp;&nbsp;
  <p align='center'>
   📫  How to reach me: <a href='mailto:pavelzeger@outlook.com'>pavelzeger@outlook.com</a>
 </p>
 
 ### Key points
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Currently, working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Technical Stack
 * Java, Scala, Python, Groovy
@@ -39,6 +38,6 @@ In general worked with monolitic, microservice and serverless architectures.
 
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/pavelzeger/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=pavelzeger&color=DE002D">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=pavelzeger&color=DE002D" alt="">
     </a>
 </div>
