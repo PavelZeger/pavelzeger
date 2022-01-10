@@ -21,7 +21,7 @@ Software Engineer with more than 3 years of developing experience, working with 
 </p>
 
 ### Key points
-*   Currently, working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Currently, working in [Start.io](https://www.linkedin.com/company/startapp/)
 
 ## 🛠 Technical Stack
 * Java, Scala, Python, Groovy
