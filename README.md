@@ -21,17 +21,18 @@ Software Engineer with more than 3 years of developing experience, working with 
 </p>
 
 ### Key points
-*   Currently, working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Currently, working in [Start.io](https://www.linkedin.com/company/startapp/)
 
 ## 🛠 Technical Stack
-* Java, Scala, Python, Groovy
+* Java, Kotlin, Scala, Python, Groovy
 * Cassandra, ClickHouse, ELK, MongoDB, MySQL, PostgreSQL, AWS Aurora, AWS Athena, AWS RDS, Couchbase
 * Kafka, RabbitMQ, AWS Kinesis, AWS SQS
 * Cloudera/HDP/Apache Hadoop, Hive, Impala, HBase, Apache Spark, AWS EMR, AWS S3, AWS EC2
-* Spring Framework, Spring Boot, Spring Boot Test, Spring Data, Spring MVC, Spring WebFlux, Spring AOP, Spring Integration
+* Spring Framework, Spring Boot, Spring Boot Test, Spring Data, Spring MVC, Spring WebFlux, Spring AOP, Spring Integration, Spring Open API, Swagger UI
 * JUnit, Mockito, Maven, JMeter, VisualVM, JDK Mission Control, Lombok
 * GitHub, GitLab, Bitbucket, Jira, Confluence, JFrog Artifactory
 * Codefresh, Jenkins, Ansible, Docker, Kubernetes, Airflow, AWS ECR, MLFlow, DataDog, Grafana, Prometheus
+* HTML, CSS
 
 ### My opensource projects
 
