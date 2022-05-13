@@ -24,7 +24,7 @@ Software Engineer with more than 3 years of developing experience, working with 
 *   Currently, working in [Start.io](https://www.linkedin.com/company/startapp/)
 
 ## 🛠 Technical Stack
-* Java, Kotlin, Scala, Python, Groovy
+* Java, Kotlin, Scala, Python
 * Cassandra, ClickHouse, ELK, MongoDB, MySQL, PostgreSQL, AWS Aurora, AWS Athena, AWS RDS, Couchbase
 * Kafka, RabbitMQ, AWS Kinesis, AWS SQS
 * Cloudera/HDP/Apache Hadoop, Hive, Impala, HBase, Apache Spark, AWS EMR, AWS S3, AWS EC2
