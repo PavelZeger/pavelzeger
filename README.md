@@ -111,12 +111,3 @@ I'm a backend engineer who enjoys going deep — into JVM internals, distributed
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pulsar-188FFF?style=flat&logo=apachepulsar&logoColor=white"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PavelZeger&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelZeger&layout=compact&hide_border=true&langs_count=8" />
-</p>
