@@ -13,7 +13,7 @@
 
 ### 🧠 About
 
-I'm a backend engineer who enjoys going deep — into JVM internals, distributed systems, and whatever new technology is worth understanding properly rather than superficially. Currently focused on the security field, where correctness, scale, and compliance all matter at once.
+I'm a backend engineer who enjoys going deep - into JVM internals, distributed systems, and whatever new technology is worth understanding properly rather than superficially. Currently focused on the security field, where correctness, scale, and compliance all matter at once.
 
 ---
 
