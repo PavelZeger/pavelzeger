@@ -13,7 +13,7 @@
 
 ### 🧠 About
 
-I'm a backend engineer who enjoys going deep — into JVM internals, distributed systems, and whatever new technology is worth understanding properly rather than superficially. Currently focused on security field, where correctness, scale, and compliance all matter at once.
+I'm a backend engineer who enjoys going deep — into JVM internals, distributed systems, and whatever new technology is worth understanding properly rather than superficially. Currently focused on the security field, where correctness, scale, and compliance all matter at once.
 
 ---
 
@@ -117,6 +117,6 @@ I'm a backend engineer who enjoys going deep — into JVM internals, distributed
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PavelZeger&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelZeger&layout=compact&hide_border=true&langs_count=8&theme=transparent"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PavelZeger&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelZeger&layout=compact&hide_border=true&langs_count=8"/>
 </p>
